@@ -1,0 +1,13 @@
+.btnA
+{
+    padding: 8px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: none;
+}
+
+.btnA:hover
+{
+    background-color: #350F4A !important;
+    color: #F5E759 !important;
+}

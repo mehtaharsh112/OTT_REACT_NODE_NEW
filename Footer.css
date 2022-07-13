@@ -1,0 +1,29 @@
+.footer-back
+{
+    /* background-color: #111317; */
+    background-color: #101010;
+}
+
+.footer-back a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.footer-back a #hov-border:hover
+{
+    color: #f0f0f0;
+    font-weight: bold;
+}
+
+
+.footer-back p
+{
+    color: white;
+    font-weight: bold;
+}
+
+i:hover
+{
+    color: lightseagreen;
+}
